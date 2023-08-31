@@ -22,7 +22,7 @@ class starter{
 };
 int main(){
     starter Mangi;
-    Mangi.setter(20106058,"MangiLal",'M');
+    Mangi.setter(36,"MangiLal",'M');
     Mangi.getter();
     cout<<Mangi.gender<<endl;
     cout<<Mangi.rollNumber<<endl;
